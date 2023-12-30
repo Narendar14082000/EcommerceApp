@@ -1,4 +1,4 @@
-# Ecommerce React App Readme
+# Ecommerce Application
 
 ## Overview
 
